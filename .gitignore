@@ -1,0 +1,42 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Environment files
+.env
+.env.*
+
+# Node.js / React
+node_modules/
+dist/
+build/
+
+# Test Results
+TestResults/
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
